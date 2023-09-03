@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>UI/AuthAll.qml</file>
+        <file>UI/RegisterPart.qml</file>
+        <file>UI/SignInPart.qml</file>
+        <file>UI/Assets/google.jpg</file>
+        <file>UI/Assets/google.png</file>
+        <file>UI/Assets/g+.png</file>
+        <file>UI/Assets/g+.svg</file>
+        <file>UI/Assets/vk.svg</file>
+        <file>qml/StyleSettings/qmldir</file>
+        <file>qml/StyleSettings/Style.qml</file>
+        <file>qml/ResourceProvider/Resources.qml</file>
+        <file>qml/ResourceProvider/qmldir</file>
+        <file>qml/StyleSettings/CustomButton.qml</file>
+        <file>qml/StyleSettings/CustomTextField.qml</file>
+    </qresource>
+</RCC>

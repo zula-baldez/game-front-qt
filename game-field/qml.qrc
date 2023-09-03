@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>UI/Assets/table.jpg</file>
+        <file>UI/Assets/table-1.jpg</file>
+        <file>agregators/GameBoard.qml</file>
+        <file>basic-components/Player.qml</file>
+        <file>basic-components/Card.qml</file>
+        <file>UI/Assets/2_bybi.png</file>
+        <file>UI/Assets/rubashka.jpg</file>
+    </qresource>
+</RCC>

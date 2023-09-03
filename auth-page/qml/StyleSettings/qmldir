@@ -1,0 +1,4 @@
+module StyleSettings
+singleton Style 1.0 Style.qml
+CustomButton 1.0 CustomButton.qml
+CustomTextField 1.0 CustomTextField.qml
